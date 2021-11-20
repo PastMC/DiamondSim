@@ -6,7 +6,7 @@ jobs:
     strategy:
       matrix:
         # Use these Java versions
-        java:[
+        java: [
  16,    # Minimum supported by Minecraft
           ]
         
