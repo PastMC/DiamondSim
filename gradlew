@@ -1,23 +1,4 @@
-Skip to content
-FabricMC
-/
-fabric-example-mod
-Public template
-Code
-Issues
-39
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-fabric-example-mod/gradlew
-@modmuss50
-modmuss50 Update to Gradle 7.3 and also build on Java 17
- 3 contributors
-Executable File  234 lines (207 sloc)  7.88 KB
+
 #!/bin/sh
 
 #
@@ -250,16 +231,3 @@ eval "set -- $(
     )" '"$@"'
 
 exec "$JAVACMD" "$@"
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
